@@ -1,0 +1,219 @@
+{
+  "@@last_modified": "2020-08-09T15:34:17.331316",
+  "title": "Flutter APP",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "find": "Find",
+  "@find": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mine": "Mine",
+  "@mine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameRequired": "User name required!",
+  "@userNameRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "User Name",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordRequired": "Password required!",
+  "@passwordRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrPasswordWrong": "User name or password is not correct!",
+  "@userNameOrPasswordWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "netError": "Unknow Error",
+  "@netError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "netCancel": "Request Cancel",
+  "@netCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "netConnectTimeOut": "Connect Timeout",
+  "@netConnectTimeOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "netRequestTimeOut": "Request Timeout",
+  "@netRequestTimeOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "netResponseTimeOut": "Response Timeout",
+  "@netResponseTimeOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSuccess": "Login Success!",
+  "@loginSuccess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputNameHint": "Please input account",
+  "@inputNameHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputPwdHint": "Please input password",
+  "@inputPwdHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputConfirmPwdHint": "Please Confirm password",
+  "@inputConfirmPwdHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPwdError": "password not the same",
+  "@confirmPwdError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "category ",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publishTime": "publishTime: ",
+  "@publishTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "share",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchHint": "Hot",
+  "@searchHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchInputHint": "Please input keyword",
+  "@searchInputHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchWithUs": "Hot Search",
+  "@searchWithUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "usuallyWebsite": "Usually WebSite",
+  "@usuallyWebsite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messageNotOpen": "Message Module is on the way",
+  "@messageNotOpen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newProject": "Lasted Project",
+  "@newProject": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chapter": "Chapter",
+  "@chapter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welfare": "Welfare",
+  "@welfare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "casual": "Casual",
+  "@casual": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "About",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Switch Language",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "zhCn": "中文简体",
+  "@zhCn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enUs": "English",
+  "@enUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "auto": "Follow System",
+  "@auto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitHint": "Confirm Logout?",
+  "@exitHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

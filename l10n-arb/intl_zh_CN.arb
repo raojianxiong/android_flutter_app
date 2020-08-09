@@ -1,0 +1,220 @@
+{
+  "@@last_modified": "2020-07-24T22:30:44.278212",
+  "@@locale":"zh_CN",
+  "title": "Flutter APP",
+    "@title": {
+      "description": "Title for the Demo application",
+      "type": "text",
+      "placeholders": {}
+    },
+    "home": "首页",
+    "@home": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "find": "发现",
+    "@find": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "message": "消息",
+    "@message": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "mine": "我的",
+    "@mine": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "userNameRequired": "User name required!",
+    "@userNameRequired": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "userName": "User Name",
+    "@userName": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "password": "Password",
+    "@password": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "passwordRequired": "Password required!",
+    "@passwordRequired": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "userNameOrPasswordWrong": "User name or password is not correct!",
+    "@userNameOrPasswordWrong": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "login": "登录",
+    "@login": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "register": "注册",
+    "@register": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "netError": "未知错误",
+    "@netError": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "netCancel": "请求取消",
+    "@netCancel": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "netConnectTimeOut": "连接超时",
+    "@netConnectTimeOut": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "netRequestTimeOut": "请求超时",
+    "@netRequestTimeOut": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "netResponseTimeOut": "响应超时",
+    "@netResponseTimeOut": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "loginSuccess": "登录成功!",
+    "@loginSuccess": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "inputNameHint": "请输入账号",
+    "@inputNameHint": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "inputPwdHint": "请输入密码",
+    "@inputPwdHint": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "inputConfirmPwdHint": "请确认密码",
+    "@inputConfirmPwdHint": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "confirmPwdError": "两次输入密码不同",
+    "@confirmPwdError": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "category": "分类 ",
+    "@category": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "publishTime": "发布时间: ",
+    "@publishTime": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "share": "分享",
+    "@share": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "searchHint": "热搜",
+    "@searchHint": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "searchInputHint": "请输入搜索关键词",
+    "@searchInputHint": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "searchWithUs": "大家都在搜",
+    "@searchWithUs": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "usuallyWebsite": "常用网站",
+    "@usuallyWebsite": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "messageNotOpen": "消息模块暂未开放",
+    "@messageNotOpen": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "newProject": "最新项目",
+    "@newProject": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "chapter": "公众号",
+    "@chapter": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "welfare": "福利",
+    "@welfare": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "casual": "休闲",
+    "@casual": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "about": "关于",
+    "@about": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "language": "切换语言",
+    "@language": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "logout": "退出登录",
+    "@logout": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "zhCn": "中文简体",
+    "@zhCn": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enUs": "English",
+    "@enUs": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "auto": "跟随系统",
+    "@auto": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "exitHint": "您确定要退出登录?",
+    "@exitHint": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "ok": "确定",
+    "@ok": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cancel": "取消",
+    "@cancel": {
+      "type": "text",
+      "placeholders": {}
+    }
+}
