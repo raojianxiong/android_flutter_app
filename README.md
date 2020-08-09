@@ -2,23 +2,15 @@
 
 ### **一、效果图**
 
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/A.jpg)
+![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/A.png)
 
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/B.jpg)
+![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/B.png)
 
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/C.jpg)
+![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/C.png)
 
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/D.jpg)
+![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/D.png)
 
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/E.jpg)
-
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/F.jpg)
-
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/I.jpg)
-
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/J.jpg)
-
-![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/K.jpg)
+![Flutter](https://github.com/raojianxiong/android_flutter_app/blob/master/screenshots/E.png)
 
 ### **二、实现的功能**
 
