@@ -35,7 +35,7 @@
 
 - 国际化语言   [Intl包](https://book.flutterchina.club/chapter13/)
 - shared_preferences
-- simple_animations [粒子动画](![1596984715463](C:\Users\Jianxiong Rao\AppData\Roaming\Typora\typora-user-images\1596984715463.png))
+- simple_animations [粒子动画](https://juejin.im/post/6844904048013869063)
 - 网络请求  [dio](https://book.flutterchina.club/chapter11/dio.html)
 - fluttertoast
 - flutter_swiper banner滑动
